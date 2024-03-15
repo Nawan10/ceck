@@ -1,0 +1,10 @@
+
+    /* Login Form */
+.form  {
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    width: 400px;
+    border: 1px solid black;
+    align-items: center;
+}
